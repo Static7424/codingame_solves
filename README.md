@@ -10,6 +10,10 @@ Profile: [Static7424](https://www.codingame.com/profile/aa1b1f15aed409ffdf1f8977
 
     .
     ├── easy_puzzles
+    │   ├── ascii_art
+    │   ├── onboarding
+    │   ├── temperatures
+    │   ├── the_descent
     │   └── unary
     │
     ├── medium_puzzles
