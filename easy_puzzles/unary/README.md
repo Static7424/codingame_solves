@@ -33,3 +33,31 @@ Second example, we want to encode the message CC (i.e. the 14 bits `100001110000
 - `0 00` (two `1`)
 
 So CC is coded as `0 0 00 0000 0 000 00 0000 0 00`
+
+## Game Input
+
+### Input
+
+Line 1: the message consisting of `N` ASCII characters (without carriage return)
+
+### Output
+
+The encoded message
+
+### Constraints
+
+0 < `N` < 100
+
+### Example
+
+#### Input
+
+```
+C
+```
+
+#### Output
+
+```
+0 0 00 0000 0 00
+```
