@@ -22,3 +22,10 @@ def main(message: str) -> str:
             output_string += " 0 0"
 
     return output_string[1:]
+
+# TO PRINT TO CONSOLE
+
+# message = input()
+
+# result = main(message)
+# print(result)
