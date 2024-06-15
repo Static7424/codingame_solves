@@ -13,6 +13,7 @@ Profile: [Static7424](https://www.codingame.com/profile/aa1b1f15aed409ffdf1f8977
     │   ├── ascii_art
     │   ├── horse_racing_duals
     │   ├── onboarding
+    │   ├── power_of_thor_episode_1
     │   ├── temperatures
     │   ├── the_descent
     │   └── unary
