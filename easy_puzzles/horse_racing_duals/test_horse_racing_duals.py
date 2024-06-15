@@ -7,7 +7,7 @@ test_cases = [
         "name": "Simple case",
         "input": {
             'n': 3,
-            "pi": [
+            "pis": [
                 5,
                 8,
                 9
@@ -19,7 +19,7 @@ test_cases = [
         "name": "Horses in any order",
         "input": {
             'n': 10,
-            "pi": [
+            "pis": [
                 5,
                 15,
                 17,
@@ -38,7 +38,7 @@ test_cases = [
         "name": "Many horses",
         "input": {
             'n': 99999,
-            "pi": [
+            "pis": [
                 9999999,
                 9999888,
                 9999741,
@@ -100047,5 +100047,5 @@ test_cases = [
 @pytest.mark.parametrize("case", test_cases, ids = [case["name"] for case in test_cases])
 def test_cases_run(case):
     input = case["input"]
-    output = main(input['n'], input["pi"])
+    output = main(input['n'], input["pis"])
     assert (output == case["expected_value"])
