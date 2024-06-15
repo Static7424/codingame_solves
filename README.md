@@ -30,6 +30,8 @@ In order to test these solves, `pytest` has been used for instant feedback.
 
 To install `pytest`, run `pip install pytest` from your terminal.
 
+Please note that these tests may not reflect the functionality of tests within Codingame.
+
 ## Running the Tests
 
 To run the test cases for a given challenge:
