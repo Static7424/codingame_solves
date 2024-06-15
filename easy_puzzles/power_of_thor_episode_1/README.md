@@ -8,7 +8,7 @@ Your program must allow Thor to reach the light of power.
 
 Thor moves on a map which is 40 wide by 18 high. Note that the coordinates (X and Y) start at the top left! This means the most top left cell has coordinates "X=0,Y=0" and the most bottom right one has the coordinates "X=39,Y=17".
 
-Once the program starts you  are given:
+Once the program starts you are given:
 - the variable `lightX`: the X position of the light of power that Thor must reach.
 - the variable `lightY`: the Y position of the light of power that Thor must reach.
 - the variable `initialTX`: the starting X position of Thor.
@@ -51,7 +51,7 @@ Action `S`: Thor moves towards south.
 
 New position is (3, 7).
 
-![image_2](https://files.codingame.com/codingame/ragnarok/demo1.png)
+![image_3](https://files.codingame.com/codingame/ragnarok/demo1.png)
 
 #### Round 2
 
@@ -59,7 +59,7 @@ Action `S`: Thor moves towards south.
 
 New position is (3, 8).
 
-![image_2](https://files.codingame.com/codingame/ragnarok/demo2.png)
+![image_4](https://files.codingame.com/codingame/ragnarok/demo2.png)
 
 ## Note
 

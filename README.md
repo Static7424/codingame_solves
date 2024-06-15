@@ -19,7 +19,7 @@ Profile: [Static7424](https://www.codingame.com/profile/aa1b1f15aed409ffdf1f8977
     │   └── unary
     │
     ├── medium_puzzles
-    │   └── <>
+    │   └── there_is_no_spoon_episode_1
     │
     ├── hard_puzzles
     └── └── <>
